@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\algebra\2.semestar - strukture podataka i algoritmi\dz03\main\main.cpp(57): warning C4018: '<=': signed/unsigned mismatch
+d:\algebra\2.semestar - strukture podataka i algoritmi\dz03\main\main.cpp(58): warning C4018: '<=': signed/unsigned mismatch
+  Main.vcxproj -> D:\ALGEBRA\2.semestar - Strukture podataka i algoritmi\DZ03\x64\Debug\Main.exe
